@@ -1,9 +1,9 @@
 # workday_scheduler
 # [Page Link]()
 
-![]()
+![](./assets/images/Screenshot%202024-03-21%20143738.png)
 ## Description
- 
+ I created this workday scheduler to help stay organized throughout the day and to be able to manage my time more efficiently. This scheduler displays the current time and is able to save your input in each time slot in the local storage.
 ## Installation
 N/A
 
